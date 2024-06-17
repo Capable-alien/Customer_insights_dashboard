@@ -1,6 +1,6 @@
 # Customer Insights Dashboard
 
-The Customer Insights Dashboard is an interactive Streamlit application designed to help businesses gain valuable insights from their customer data. This dashboard offers three key functionalities:
+This is an interactive Streamlit application designed to gain valuable insights from customer data. This dashboard offers three key functionalities:
 
 1. **Customer Churn Prediction**: Utilize machine learning to predict which customers are most likely to churn, allowing you to take proactive measures to retain them.
 2. **Customer Sentiment Analysis**: Analyze customer feedback to understand their sentiments and identify areas for improvement in your products or services.
